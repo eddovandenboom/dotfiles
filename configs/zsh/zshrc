@@ -3,3 +3,6 @@
 source ~/dotfiles/configs/shell/main.sh
 
 # zprof # Uncomment for profiling
+
+# opencode
+export PATH=/home/eddo/.opencode/bin:$PATH
