@@ -1,6 +1,3 @@
 [user]
 	email = eddo@peacenow.world
 	name = Eddo van den Boom
-	signingkey = ~/.ssh/id_ed25519.pub
-[include]
-	path = ~/.gitconfig-sign
